@@ -232,4 +232,29 @@ main{
     margin-top: 30px;
 }
 
+.section-video-text{
+    width: 80%;
+    margin: auto;
+}
+.section-video-text .button{
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid #5f1f9c;
+    text-align: center;
+    padding:10px 70px;
+    text-decoration: none;
+    color: #5f1f9c;
+    font-size: 17px;
+    background-color: #fff;
+}
+.section-video-text .button:hover{
+background-color: #5f1f9c;
+color: #fff;
+}
+.section-video-text p{
+   color:rgb(69, 67, 67);
+   margin-top: 20px;
+   line-height: 30px;
+   text-align: center;
+}
 /*#5f1f9c #3e2a80 #371f7b #6739b7  #361374 #6739b7   #323232 #232028 */
